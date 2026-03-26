@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Students will create a small REST API using FastAPI that implements authentication, file uploads, initiation of long-running processes, and long-running process updates via datastreaming",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-04-02"
     }
   ]
 }
